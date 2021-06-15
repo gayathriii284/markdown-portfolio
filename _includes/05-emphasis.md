@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Good at Programming in languages like Python,C.**
+*Have good Knowledge about frameworks like tensorflow,opencv etc.*
+_Participitated in **competitions related to AI.**_
